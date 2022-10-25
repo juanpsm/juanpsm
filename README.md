@@ -1,5 +1,5 @@
 # Stats
-<div>
+<div style="display: flex; flex-direction: row; gap: 1rem">
   <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanpsm&layout=compact&langs_count=10&theme=midnight-purple" />
   </a>
